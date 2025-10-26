@@ -1,9 +1,9 @@
-🪨 Rock vs Mine Prediction
+# 🪨 Rock vs Mine Prediction
 
 This project predicts whether a given object is a rock or a mine using machine learning.
 The model was built and trained in Google Colab, and the dataset was uploaded directly from the local system.
 
-📘 What I Learned
+# 📘 What I Learned
 
 How to import and preprocess data using pandas and numpy.
 
@@ -19,7 +19,7 @@ How to upload and work with datasets in Google Colab.
 
 Understanding the complete flow of a supervised learning project — from data loading to prediction.
 
-🛠️ Tools & Libraries Used
+# 🛠️ Tools & Libraries Used
 
 Python
 
@@ -31,13 +31,13 @@ Scikit-learn
 
 Google Colab
 
-📊 Dataset
+# 📊 Dataset
 
 Source: Uploaded manually from local system.
 
 Description: Contains numerical values representing sonar signal readings used to classify objects as rocks or mines.
 
-🚀 Run the Project
+# 🚀 Run the Project
 
 Open the notebook in Google Colab.
 
